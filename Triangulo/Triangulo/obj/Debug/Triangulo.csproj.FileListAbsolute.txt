@@ -1,0 +1,10 @@
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.csprojAssemblyReference.cache
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\messe\Documents\EJEMPLOS_AVANZADA\Triangulo\Triangulo\obj\Debug\Triangulo.frmTriangulo.resources
